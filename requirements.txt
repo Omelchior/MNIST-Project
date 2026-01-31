@@ -1,0 +1,13 @@
+tensorflow==2.19.0
+protobuf>=3.20.3,<5
+
+numpy
+matplotlib
+pillow
+
+jupyterlab
+ipywidgets
+jupyterlab_widgets
+ipycanvas
+
+gradio
